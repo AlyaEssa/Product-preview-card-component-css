@@ -53,6 +53,7 @@ body {
 }
 .card h1 {
   color: var(--Very-dark-blue);
+  font-family: "Fraunces", serif;
   margin-top: 26px;
   line-height: 1.2;
   font-size: 37px;
